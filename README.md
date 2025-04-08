@@ -1,6 +1,11 @@
-## Hi there 👋
+<h1 align="center">  Hello there, I'm Piotr!
+<h2 align="center"> A student of Automatic Controll and Robotics at the Faculty of Electrical Engineering, Automation, Computer Science and Biomedical Engineering of AGH University of Krakow.
 
-<!--
+<p align="left">
+  In addition to my university studies I'm currently working on 
+</p>
+  
+  <!--
 **Koun7z/Koun7z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
