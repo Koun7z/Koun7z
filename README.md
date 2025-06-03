@@ -3,10 +3,11 @@
                     Computer Science and Biomedical Engineering of AGH University of Krakow.
 </h2>
 
-
-<h5>In addition to my university studies, I'm currently working on improving my knowledge in field of embedded development,
+In addition to my university studies, I'm currently working on improving my knowledge in field of embedded development,
 in particular ARM architecture microcontrollers by writing peripheral drivers, signal processing and control algorithms.
-</h5>
+
+If you're interested in what I've been working on recently, visit my [website](Koun7z/Koun7z.github.io) hosted here on GitHub.
+
 
 <h2>
 Some projects that I've been working on lately:
