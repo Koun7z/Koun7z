@@ -6,7 +6,7 @@
 In addition to my university studies, I'm currently working on improving my knowledge in field of embedded development,
 in particular ARM architecture microcontrollers by writing peripheral drivers, signal processing and control algorithms.
 
-If you're interested in what I've been working on recently, visit my [website](Koun7z/Koun7z.github.io) hosted here on GitHub.
+If you're interested in what I've been working on recently, visit my [website](https://koun7z.github.io) hosted here on GitHub.
 
 
 <h2>
