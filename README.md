@@ -30,15 +30,21 @@ Some projects that I've been working on lately:
 [![C]](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white "C")
 [![C++]](https://en.wikipedia.org/wiki/C%2B%2B "C++")
 [![Python]](https://www.python.org "Python")
+[![ARM]](https://www.arm.com)
 [![.NET]](https://dotnet.microsoft.com ".NET")
+[![Cmake]]()
 [![Git]](https://git-scm.com "Git")
 [![MYSQL]]( "MYSQL")
-
-
+[![CISCO]]()
+[![AUTOCAD]]()
 
 [.NET]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=512BD4&logoColor=ffffff&logo=dot-net
 [C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus
-[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python
+[ARM]: https://img.shields.io/badge/Arm-0091BD.svg?style=for-the-badge&logo=Arm&logoColor=white
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git
 [C]: https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black
 [MYSQL]: https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white
+[CISCO]: https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white
+[AUTOCAD]: https://img.shields.io/badge/AutoCAD-E51050.svg?style=for-the-badge&logo=AutoCAD&logoColor=white
+[CMake]: https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=CMake&logoColor=white
