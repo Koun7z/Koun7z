@@ -27,14 +27,18 @@ Some projects that I've been working on lately:
 
 
 ## Languages and tools:
+[![BTW]](https://archlinux.org)
 [![C]](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white "C")
 [![C++]](https://en.wikipedia.org/wiki/C%2B%2B "C++")
 [![Python]](https://www.python.org "Python")
 [![ARM]](https://www.arm.com)
 [![.NET]](https://dotnet.microsoft.com ".NET")
-[![Cmake]]()
+[![Cmake]](https://cmake.org)
 [![Git]](https://git-scm.com "Git")
-[![MYSQL]]( "MYSQL")
+[![STM]](https://www.st.com/content/st_com/en.html)
+[![ESP]](https://www.espressif.com)
+[![Qt]](https://www.qt.io/development/qt-framework)
+[![MYSQL]](https://www.mysql.com)
 [![CISCO]]()
 [![AUTOCAD]]()
 
@@ -48,3 +52,7 @@ Some projects that I've been working on lately:
 [CISCO]: https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white
 [AUTOCAD]: https://img.shields.io/badge/AutoCAD-E51050.svg?style=for-the-badge&logo=AutoCAD&logoColor=white
 [CMake]: https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=CMake&logoColor=white
+[Qt]: https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white
+[STM]: https://img.shields.io/badge/STMicroelectronics-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white
+[ESP]: https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white
+[BTW]: https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white
