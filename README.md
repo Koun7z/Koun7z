@@ -1,36 +1,72 @@
-<h1 align="center">  Hello there, I'm Piotr! </h1>
-<h2 align="center"> A student of Automatic Control and Robotics at the Faculty of Electrical Engineering, Automation,
-                    Computer Science and Biomedical Engineering of AGH University of Krakow.
-</h2>
+<h1 align="center">👋 Hello there, I'm Piotr</h1>
 
-In addition to my university studies, I'm currently working on improving my knowledge in field of embedded development,
-in particular ARM architecture microcontrollers by writing peripheral drivers, signal processing and control algorithms.
+<h3 align="center">
+Embedded Software Developer • Control Theory and Robotics Student
+</h3>
 
-If you're interested in what I've been working on recently, visit my [website](https://koun7z.github.io) hosted here on GitHub.
+---
 
+## About me
 
-<h2>
-Some projects that I've been working on lately:
-</h2>
+I'm an embedded software developer and an Automatic Control & Robotics student at
+**AGH University of Science and Technology** in Kraków, Poland.
 
-<p align="left">
-    <ul>
-        <li><a href="https://github.com/Koun7z/CRSF-for-stm32" target="_blank"> CRSF-for-stm32 - STM32 driver for ExpressLRS RC receivers </a> </li>
-    </ul>
-    <ul>
-        <li><a href="https://github.com/Koun7z/MPU6050-stm32-interface" target="_blank">MPU6050-stm32-interface - STM32 driver for MPU6050 IMU</a> </li>
-    </ul>
-    <ul>
-        <li><a href="https://github.com/Koun7z/DSP-lib" target="_blank"> DSP-lib - Library containing all DSP and math algorithms needed in my other projects</a> </li>
-    </ul>
-</p>
+Most of my time is spent somewhere between:
 
+- :gear: Bare-metal firmware development
+- :microscope: Digital Signal Processing and control systems
+- :satellite: Embedded communication protocols
+- :hammer_and_wrench: Building reusable C libraries from scratch
+- :musical_keyboard: Enjoying good music and a cup of :coffee:
+
+I enjoy understanding how things work beneath the abstraction layers. While modern software development often emphasizes speed and productivity, I'm particularly interested in the fundamentals: memory, hardware interfaces, signal processing, and efficient algorithms.
+
+My favorite playground is the **ARM Cortex-M ecosystem**, where I experiment with drivers, DSP algorithms, and real-time control applications.
+
+## Featured Projects
+
+### 📐 Core Libraries
+
+Projects focused on understanding and implementing the foundations.
+
+#### [DSP-lib](https://github.com/Koun7z/DSP-lib)
+
+A collection of DSP and mathematical algorithms used throughout my embedded projects.
+
+**Topics:** Filters, numerical methods, signal analysis, control theory, linear algebra.
+
+#### [BaseLayer-lib](https://github.com/Koun7z/BaseLayer-lib)
+
+A lightweight C library containing fundamental data structures and utilities.
+
+**Topics:** Dynamic containers, hash maps, memory management, generic programming.
+
+---
+
+### 🔧 Embedded Drivers & Interfaces
+
+Things that can actually be plugged into hardware.
+
+#### [CRSF-for-stm32](https://github.com/Koun7z/CRSF-for-stm32)
+
+STM32 implementation of the Crossfire (CRSF) protocol used by ExpressLRS RC receivers.
+
+> One of my earliest STM32 projects. It works, but I have a "few" changes in mind.
+
+#### [MPU6050-stm32-interface](https://github.com/Koun7z/MPU6050-stm32-interface)
+
+Minimal STM32 driver for the MPU6050 IMU.
+
+**Features:** Simple interface, interrupt-driven DMA data acquisition.
+
+---
 
 ## Languages and tools:
-[![BTW]](https://archlinux.org)
-[![C]](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white "C")
-[![C++]](https://en.wikipedia.org/wiki/C%2B%2B "C++")
-[![Python]](https://www.python.org "Python")
+
+[![BTW]](https://archlinux.org "Arch Linux, BTW")
+[![C]](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+[![C++]](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python]](https://www.python.org)
 [![ARM]](https://www.arm.com)
 [![.NET]](https://dotnet.microsoft.com ".NET")
 [![Cmake]](https://cmake.org)
@@ -38,9 +74,10 @@ Some projects that I've been working on lately:
 [![STM]](https://www.st.com/content/st_com/en.html)
 [![ESP]](https://www.espressif.com)
 [![Qt]](https://www.qt.io/development/qt-framework)
+[![OLLAMA]](https://www.ollama.com)
 [![MYSQL]](https://www.mysql.com)
-[![CISCO]]()
-[![AUTOCAD]]()
+[![CISCO]](https://www.cisco.com)
+[![AUTOCAD]](https://www.autodesk.com/products/autocad)
 
 [.NET]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=512BD4&logoColor=ffffff&logo=dot-net
 [C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus
@@ -53,6 +90,13 @@ Some projects that I've been working on lately:
 [AUTOCAD]: https://img.shields.io/badge/AutoCAD-E51050.svg?style=for-the-badge&logo=AutoCAD&logoColor=white
 [CMake]: https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=CMake&logoColor=white
 [Qt]: https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white
-[STM]: https://img.shields.io/badge/STMicroelectronics-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white
+[STM]: https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
 [ESP]: https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white
 [BTW]: https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white
+[OLLAMA]: https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white
+
+---
+
+<p align="center">
+    <i>"Have a good day!"</i>
+</p>
